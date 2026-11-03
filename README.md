@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hirushi-tech-stack-animated.gif" width="100%" alt="Hirushi Rathnayaka — Web Development and Creative Problem Solving" />
+  <img src="./assets/hirushi-alternative-animated-banner.gif" width="100%" alt="Hirushi Rathnayaka — Web Development and Creative Problem Solving" />
   <br />
   <br />
   <b>Building ideas into useful digital experiences.</b>
