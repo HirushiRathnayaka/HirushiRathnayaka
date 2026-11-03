@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Hirushi Rathnayaka - building meaningful digital experiences">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101624"/>
+      <stop offset="49%" stop-color="#153b41"/>
+      <stop offset="100%" stop-color="#302355"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7bd5bd"/>
+      <stop offset="100%" stop-color="#b7b1ff"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d9e8fc" opacity=".16"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="25"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="290" rx="18" fill="url(#background)"/>
+  <circle cx="1084" cy="38" r="158" fill="#9469e6" opacity=".19" filter="url(#glow)"/>
+  <circle cx="286" cy="294" r="125" fill="#6ad2b5" opacity=".12" filter="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="290" rx="18" fill="url(#dots)"/>
+  <path d="M0 257 C280 179, 370 340, 669 229 S1048 198,1200 238 V290 H0 Z" fill="#7bd5bd" opacity=".06"/>
+  <path d="M0 266 C260 188, 418 312, 679 245 S1080 217,1200 249" stroke="#83d5cb" stroke-width="1.7" fill="none" opacity=".27"/>
+  <rect x="79" y="49" width="194" height="31" rx="15" fill="#7bd5bd" opacity=".15" stroke="#7bd5bd" stroke-opacity=".44"/>
+  <circle cx="99" cy="64" r="5" fill="#89eacb"/>
+  <text x="115" y="69" font-size="14" font-family="Arial, Helvetica, sans-serif" font-weight="600" letter-spacing="2" fill="#c0f5dd">HELLO, WORLD!</text>
+  <text x="77" y="164" font-size="62" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f2f8ff">Hirushi <tspan fill="url(#accent)">Rathnayaka</tspan></text>
+  <text x="81" y="205" font-size="19" font-family="Arial, Helvetica, sans-serif" font-weight="500" letter-spacing="1.1" fill="#d2e9e9">WEB DEVELOPMENT   /   CREATIVE PROBLEM SOLVING</text>
+  <rect x="80" y="231" width="390" height="3" rx="1.5" fill="url(#accent)" opacity=".9"/>
+  <g font-family="Courier New, monospace" font-size="17" fill="#b9f8e8" opacity=".76">
+    <rect x="945" y="75" width="181" height="121" rx="14" fill="#071827" opacity=".49" stroke="#79bbba" stroke-opacity=".36"/>
+    <circle cx="969" cy="96" r="4" fill="#ef98a8"/>
+    <circle cx="985" cy="96" r="4" fill="#f8d898"/>
+    <circle cx="1001" cy="96" r="4" fill="#7bd5bd"/>
+    <path d="M970 129 L989 144 L970 159" stroke="#9ce4d6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M1003 160 L1034 160" stroke="#b2a6e9" stroke-width="4" stroke-linecap="round"/>
+    <text x="1057" y="147" fill="#91e0d2" font-size="22">{ }</text>
+  </g>
+</svg>
