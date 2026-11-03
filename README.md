@@ -46,11 +46,12 @@ const hirushi = {
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HirushiRathnayaka&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Hirushi's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirushiRathnayaka&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HirushiRathnayaka&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Hirushi's GitHub Statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HirushiRathnayaka&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most Used Languages" />
   <br />
-  <img width="76%" src="https://streak-stats.demolab.com?user=HirushiRathnayaka&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <img width="76%" src="https://streak-stats.demolab.com?user=HirushiRathnayaka&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Contribution Streak" />
 </div>
 
 > Note: These live cards use public third-party services and may occasionally fail to load due to service traffic limits. Your actual GitHub contribution graph is displayed automatically below the profile README.
