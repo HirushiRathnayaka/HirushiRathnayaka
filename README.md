@@ -69,7 +69,7 @@ const hirushi = {
 <div align="center">
   <a href="https://github.com/HirushiRathnayaka?tab=repositories"><b>Browse my repositories</b></a>
   &nbsp; · &nbsp;
-  <a href="https://my-portfolio-sigma-plum-69.vercel.app/"><b>Visit my portfolio</b></a>
+  <a href="https://my-portfolio-hwui.vercel.app/"><b>Visit my portfolio</b></a>
 </div>
 
 <!-- OPTIONAL: Add a verified LinkedIn profile link here once you have your correct URL.
