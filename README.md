@@ -7,7 +7,7 @@
   <br />
   <a href="https://github.com/HirushiRathnayaka?tab=repositories">Projects</a>
   &nbsp;•&nbsp;
-  <a href="https://my-portfolio-sigma-plum-69.vercel.app/">Portfolio</a>
+  <a href="[https://my-portfolio-sigma-plum-69.vercel.app/](https://my-portfolio-hwui.vercel.app/)">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/HirushiRathnayaka">GitHub</a>
 </div>
