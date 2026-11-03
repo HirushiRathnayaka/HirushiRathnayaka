@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Hirushi Rathnayaka — Web Development and Creative Problem Solving" />
+  <img src="./assets/banner.png" width="100%" alt="Hirushi Rathnayaka — Web Development and Creative Problem Solving" />
   <br />
   <br />
   <b>Building ideas into useful digital experiences.</b>
